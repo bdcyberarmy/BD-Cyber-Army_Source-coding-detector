@@ -9,4 +9,4 @@ ls
 
 chmod +x hacking.py
 
-python3 hacking.py
+python3 'hacking.py'
